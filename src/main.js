@@ -19,6 +19,9 @@
   'cuechange',
   'cuepoint',
   'volumechange',
+  'playbackratechange',
+  'bufferstart',
+  'bufferend',
   'error',
   'loaded'
   ]
